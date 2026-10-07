@@ -1,0 +1,3 @@
+# app-ads.txt for Hook & Harbor (tahirgame)
+# Paste below the lines from your LevelPlay dashboard (its app-ads.txt section).
+# Keep this file at the root of the site: https://YOUR-USERNAME.github.io/app-ads.txt
